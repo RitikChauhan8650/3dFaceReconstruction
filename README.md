@@ -4,12 +4,6 @@ This is a code snippet that can convert 468 mediapipe fatial landmarks into a .o
 
 Mediapipe is more accurate at detecting open eyes than some other face detection solutions, which allows this project to work decently well with illustrations as well as photos. Noses don't seem to be particularly accurate with this techinque
 
-# Examples
-![](./examples/Animation.gif)
-<!-- ![](./examples/gakki.jpg) -->
-<!-- ![](./examples/landmarks.jpg) -->
-<!-- ![](./examples/texture-landmark.jpg) -->
-<!-- ![](./examples/demo.gif) -->
 
 # Setup
 ```pip install -r requirements.txt```
